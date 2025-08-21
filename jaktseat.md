@@ -2,5 +2,6 @@ Hello! My name is Jake Seaton and I am in my final semester of my Master's degre
 I really like machine learning and data analysis, so I am hoping this course will give me the oppurtunity to explore that in the context of digital archaeology. 
 Outside of my coursework, I've been in the UT fencing club for the past 4 years.
 
-Hugging Face ID: JakeSeaton71
-Github ID: jakeseaton71
+gh: jakeseaton71  
+
+hfh: JakeSeaton71
