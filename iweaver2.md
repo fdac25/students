@@ -1,0 +1,1 @@
+Hi my name is Isaiah Weaver and I am a senior majoring in computer science. I enjoy software development, particularly videogames and process improvemnet apps (or anything else I can make money from). In this class I want to learn how to improve these apps and the data they interact with.
