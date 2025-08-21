@@ -2,6 +2,6 @@ Hi there! I'm Tyler Duckworth and I'm a first-year grad student here at UT. Curr
 
 In terms of this project, I think it could be interesting to do some analysis on how ambient air monitoring data is maintained and stored. The Environmental Protection Agency has to maintain curated datasets from hundreds of sites for many different pollutants. However, I'm open to pretty much any project and working in any role. 
 
-GitHub: tyler-duckworth
+gh: tyler-duckworth
 
-HuggingFace: tduckwor
+hg: tduckwor
