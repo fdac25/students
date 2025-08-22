@@ -4,6 +4,6 @@ me understand different data types and which are considered more beneficial than
 make predictions based on historical data, and I think this course perfectly aligns with that. I'm not sure if I will be using an LLM to help make predictions
 or if I will do probability from historical data, but data analysis will be very helpful for both.
 
-##HFH: Crillo
+gh: cramosme
 
-##GH: cramosme
+hfh: Crillo
