@@ -1,0 +1,5 @@
+I am George Evans and I am a PhD student in the EECS department here at UTK. My advisor is Dr. Schuman, but I am majoring in compiuter engineering with a focus in Spiking Neural Networks. MY undergraduate degree is in physics. I am generally interested in robotics and other control applications, but I am interested in this course because I have found that training networks for control and classification applications requires careful selection and curation of the right data. By exploring data collection, I hope to become better at training networks for my research.
+
+hfh: gevans16
+
+gh: gdelellis-2
