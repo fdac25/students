@@ -7,4 +7,5 @@ over time. While I'm not too entirely sure the scope of the class, I would love 
 along the way, and I'm excited to be working with the wide net of data!
 
 gh: uwueric
+
 hfh: uwueric
