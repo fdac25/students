@@ -6,5 +6,6 @@ i.e scraping the web for certain literary themes and then analyzing how those th
 over time. While I'm not too entirely sure the scope of the class, I would love to learn
 along the way, and I'm excited to be working with the wide net of data!
 
-hfh: uwueric
 gh: uwueric
+
+hfh: uwueric
