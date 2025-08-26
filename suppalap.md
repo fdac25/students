@@ -7,5 +7,3 @@ NetID - SUPPALAP
 Github - Karthikuppalapati57
  
 hfhID - KarthikUppalapati57
-
-Key - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMngcHrpfL3PofEZvInMKHSrYI1Z8zmpQQuZy2fPdpmr uppalapatisivasaipavankarthik@gmail.com
