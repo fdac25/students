@@ -4,5 +4,5 @@ This is my final year as an undergraduate student, and I am looking forward to c
 
 I am especially excited to work with data this semester, since it is a field I have not yet had much direct experience with. I believe this course will give me an excellent opportunity to explore new approaches, broaden my skill set, and gain insights into how data can be leveraged in real-world projects.
 
-**gh:** AgustinSV  
-**hfh:** AgustinSV15
+gh: AgustinSV  
+hfh: AgustinSV15
