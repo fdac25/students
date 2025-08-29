@@ -4,4 +4,5 @@ Christian Brothers University in Memphis, TN in Computer Science while also play
 on the university's computing resources. 
 
 
-hg_ID and GH_ID: Cameronr11
+gh: Cameronr11
+hfh: Cameronr11
