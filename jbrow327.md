@@ -1,5 +1,6 @@
-GH: jakobDallas
-HFH:jakobDallas 
+gh: jakobDallas
+
+hfh: jakobDallas 
 
 I am Jakob Brown, a senior in computer science. I am most interested in machine learning, particularly on an enterprise scale.
 I have a particular interest in how we can deploy tech at a large enterprise, and how each system interacts at that scale. I am familiar with networking and cloud infrastructure. 
