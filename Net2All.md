@@ -60,6 +60,7 @@
 |rpate112|patel|rudra|RudraPatel2003|
 |rpatel92|patel|rishi|riship21|
 |rperry21|perry|ryan|ryandavidperry|
+|rsanz|Reagan|Sanz|ReaganSanz|
 |rtrenner|trenner|ryan|TheRman5|
 |sjayapra|jayaprakash|surya prasath|SURYAPRASATHJP|
 |smohyud1|mohyuddin|sulaiman|smohyud4|
